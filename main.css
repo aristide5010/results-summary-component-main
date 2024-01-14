@@ -28,10 +28,10 @@ body {
     flex-direction: column;
     justify-content: space-between;
     height: 85%;
-    margin: 15px 60px;
+    margin: 25px 60px;
 }
 
-.cadre-gauche h3 {
+.cadre-gauche h1 {
     font-size: 1.5em;
     color: hsl(241, 100%, 89%);
     margin-bottom: 35px;
@@ -68,8 +68,9 @@ body {
     font-weight: 800;
 }
 
-.cadre-gauche h1 {
+.cadre-gauche h2 {
     color: white;
+    font-size: 2em;
     margin: 25px 0 15px;
 }
 
@@ -212,7 +213,7 @@ body {
         padding: 0 30px;
     }
 
-    .cadre-gauche h3 {
+    .cadre-gauche h1 {
         font-size: large;
     }
 
@@ -232,7 +233,7 @@ body {
 
     }
 
-    .cadre-gauche h1 {
+    .cadre-gauche h2 {
         font-size: 1.5em;
         margin-bottom: 10px;
     }
