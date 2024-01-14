@@ -31,7 +31,7 @@ body {
     margin: 25px 60px;
 }
 
-.cadre-gauche h1 {
+.cadre-gauche h2 {
     font-size: 1.5em;
     color: hsl(241, 100%, 89%);
     margin-bottom: 35px;
@@ -68,7 +68,7 @@ body {
     font-weight: 800;
 }
 
-.cadre-gauche h2 {
+.cadre-gauche h3 {
     color: white;
     font-size: 2em;
     margin: 25px 0 15px;
@@ -95,7 +95,7 @@ body {
     margin: 20px 40px;
 }
 
-.cadre-droit h1 {
+.cadre-droit h2 {
     color: #303b59;
     text-align: left;
     font-weight: 700;
@@ -213,7 +213,7 @@ body {
         padding: 0 30px;
     }
 
-    .cadre-gauche h1 {
+    .cadre-gauche h2 {
         font-size: large;
     }
 
@@ -233,7 +233,7 @@ body {
 
     }
 
-    .cadre-gauche h2 {
+    .cadre-gauche h3 {
         font-size: 1.5em;
         margin-bottom: 10px;
     }
@@ -258,7 +258,7 @@ body {
         margin: 40px 30px;
     }
 
-    .cadre-droit h1 {
+    .cadre-droit h2 {
         color: #303b59;
         text-align: left;
         font-weight: 700;
